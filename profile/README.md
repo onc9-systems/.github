@@ -3,6 +3,8 @@
   <img src="onc9-mark.svg" alt="ONC9" width="140">
 </picture>
 
+&nbsp;
+
 **AI-native operations, built around your people.**
 
 We listen to your team, then build software designed around how they work.
