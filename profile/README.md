@@ -11,7 +11,7 @@ We listen to your team, then build software designed around how they work.
 
 ## What we build
 
-- **Workflow automation.** Custom software that takes action for your team.
+- **Workflow automation.** Bespoke software that takes action for your team.
   Inbox triage that routes and replies. RFQ pipelines that quote and assign.
   Browser agents that retrieve from supplier and tender portals. Replies that
   took two days now take fifteen minutes. Every action the AI takes is logged
@@ -24,7 +24,7 @@ We listen to your team, then build software designed around how they work.
   hire takes hours, not weeks. Compliance answers stop sitting in one
   person's head.
 
-- **Custom dashboards.** Each person on your team gets a dashboard built
+- **Bespoke dashboards.** Each person on your team gets a dashboard built
   around their job. Sales sees pipeline. Ops sees active jobs. Finance sees
   cash. Leadership sees the whole business in real time. Every morning starts
   on one screen, not seven. The dashboard pulls from the systems you already
