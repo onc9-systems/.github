@@ -1,9 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="onc9-mark-dark.svg">
-  <img src="onc9-mark.svg" alt="ONC9" width="240">
+  <img src="onc9-mark.svg" alt="ONC9" width="140">
 </picture>
-
-&nbsp;
 
 **AI-native operations, built around your people.**
 
